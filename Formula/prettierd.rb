@@ -5,7 +5,7 @@ class Prettierd < Formula
   homepage "https://github.com/fsouza/prettierd"
   url "https://registry.npmjs.org/@fsouza/prettierd/-/prettierd-0.22.2.tgz"
   sha256 "faa5bfac8b6eb0a783a506191db72a6df22baedcefad8515f7f624f9ab3c7764"
-  license ISC
+  license "ISC"
   head "https://github.com/fsouza/prettierd.git", branch: "main"
 
   depends_on "node"
