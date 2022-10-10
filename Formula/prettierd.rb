@@ -3,8 +3,8 @@ require "language/node"
 class Prettierd < Formula
   desc "prettier, on SPEED!"
   homepage "https://github.com/fsouza/prettierd"
-  url "https://registry.npmjs.org/@fsouza/prettierd/-/prettierd-0.22.2.tgz"
-  sha256 "faa5bfac8b6eb0a783a506191db72a6df22baedcefad8515f7f624f9ab3c7764"
+  url "https://registry.npmjs.org/@fsouza/prettierd/-/prettierd-0.22.3.tgz"
+  sha256 "ee60003e15c76bcd0917abf7d6eff7e397a714f887a7e0ece86b551714004fce"
   license "ISC"
   head "https://github.com/fsouza/prettierd.git", branch: "main"
 
